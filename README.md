@@ -1,2 +1,2 @@
-#Percoaan pertama denngan GIThUb
+#Percobaan pertama denngan GIThUb
 semoga lancar setelahnya
